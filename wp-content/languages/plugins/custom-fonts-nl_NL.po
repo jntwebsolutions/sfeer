@@ -1,0 +1,291 @@
+# Translation of Plugins - Custom Fonts - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Custom Fonts - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-16 09:29:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Custom Fonts - Stable (latest release)\n"
+
+#: includes/class-bsf-custom-fonts-admin.php:226
+#: includes/class-bsf-custom-fonts-admin.php:325
+msgid "Ultra-Bold 900"
+msgstr "Ultra-Vet 900"
+
+#: includes/class-bsf-custom-fonts-admin.php:225
+#: includes/class-bsf-custom-fonts-admin.php:324
+msgid "Extra-Bold 800"
+msgstr "Extra-Vet 800"
+
+#: includes/class-bsf-custom-fonts-admin.php:224
+#: includes/class-bsf-custom-fonts-admin.php:323
+msgid "Bold 700"
+msgstr "Vet 700"
+
+#: includes/class-bsf-custom-fonts-admin.php:223
+#: includes/class-bsf-custom-fonts-admin.php:322
+msgid "Semi-Bold 600"
+msgstr "Semi-Vet 600"
+
+#: includes/class-bsf-custom-fonts-admin.php:222
+#: includes/class-bsf-custom-fonts-admin.php:321
+msgid "Medium 500"
+msgstr "Medium 500"
+
+#: includes/class-bsf-custom-fonts-admin.php:221
+#: includes/class-bsf-custom-fonts-admin.php:320
+msgid "Normal 400"
+msgstr "Normaal 400"
+
+#: includes/class-bsf-custom-fonts-admin.php:220
+#: includes/class-bsf-custom-fonts-admin.php:319
+msgid "Light 300"
+msgstr "Licht 300"
+
+#: includes/class-bsf-custom-fonts-admin.php:219
+#: includes/class-bsf-custom-fonts-admin.php:318
+msgid "Extra-Light 200"
+msgstr "Extra licht 200"
+
+#: includes/class-bsf-custom-fonts-admin.php:218
+#: includes/class-bsf-custom-fonts-admin.php:317
+msgid "Thin 100"
+msgstr "Dun 100"
+
+#: includes/class-bsf-custom-fonts-admin.php:216
+#: includes/class-bsf-custom-fonts-admin.php:315
+msgid "Select font-weight property for this font"
+msgstr "Selecteer de eigenschap lettertype-gewicht voor dit lettertype"
+
+#: includes/class-bsf-custom-fonts-admin.php:215
+#: includes/class-bsf-custom-fonts-admin.php:314
+msgid "Font weight"
+msgstr "Lettertype gewicht"
+
+#: includes/class-bsf-custom-fonts-admin.php:191
+#: includes/class-bsf-custom-fonts-admin.php:279
+msgid "Add the font's fallback names with comma(,) separator.  eg. Arial, Serif"
+msgstr "Voeg de terugval namen van het lettertype toe met een komma (,) scheidingsteken. bijv. Arial, Serif"
+
+#: includes/class-bsf-custom-fonts-admin.php:191
+#: includes/class-bsf-custom-fonts-admin.php:279
+msgid "Font Fallback"
+msgstr "Terugval op lettertype"
+
+#: includes/class-bsf-custom-fonts-taxonomy.php:95
+msgid "← Go to Fonts"
+msgstr "← Ga naar lettertypen"
+
+#. translators: %s Product title
+#: admin/bsf-analytics/class-bsf-analytics.php:408
+msgid "Allow %s products to track non-sensitive usage tracking data."
+msgstr "Sta %s producten toe niet-gevoelige gebruiksgegevens bij te houden."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:416
+msgid "Learn More."
+msgstr "Leer meer."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:411
+msgid " This will be applicable for all sites from the network."
+msgstr "Dit is van toepassing op alle sites van het netwerk."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:364
+msgid "Usage Tracking"
+msgstr "Gebruik bijhouden"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:260
+msgid "No Thanks"
+msgstr "Nee, dank je wel"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:251
+msgid "Yes! Allow it"
+msgstr "Ja! Sta het toe"
+
+#. translators: %s usage doc link
+#: admin/bsf-analytics/class-bsf-analytics.php:243
+msgid " Know More."
+msgstr "Meer weten."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:219
+msgid "This will be applicable for all sites from the network."
+msgstr "Dit is van toepassing op alle sites van het netwerk."
+
+#. translators: %s product name
+#: admin/bsf-analytics/class-bsf-analytics.php:216
+msgid "Want to help make <strong>%1s</strong> even more awesome? Allow us to collect non-sensitive diagnostic data and usage information. "
+msgstr "Wil je helpen om <strong>% 1s </strong> nog indrukwekkender te maken? Sta ons toe om niet-gevoelige diagnostische gegevens en gebruiksinformatie te verzamelen."
+
+#: lib/notices/class-astra-notices.php:125
+msgid "WordPress Nonce not validated."
+msgstr "WordPress Nonce niet gevalideerd."
+
+#: includes/class-bsf-custom-fonts-admin.php:196
+#: includes/class-bsf-custom-fonts-admin.php:284
+msgid "Select font-display property for this font"
+msgstr "Selecteer de eigenschap font-display voor dit lettertype"
+
+#: includes/class-bsf-custom-fonts-admin.php:195
+#: includes/class-bsf-custom-fonts-admin.php:283
+msgid "Font Display"
+msgstr "Lettertype weergeven"
+
+#: includes/class-bsf-custom-fonts-admin.php:234
+#: includes/class-bsf-custom-fonts-admin.php:342
+msgid "Upload the font's otf file or enter the URL."
+msgstr "Upload het otf-bestand van het lettertype of voer de URL in."
+
+#: includes/class-bsf-custom-fonts-admin.php:234
+#: includes/class-bsf-custom-fonts-admin.php:342
+msgid "Font .otf"
+msgstr "Lettertype .otf"
+
+#: classes/class-bsf-custom-fonts-render.php:148
+msgid "Custom"
+msgstr "Op maat"
+
+#: includes/white-label.php:34
+msgid "Plugin Description:"
+msgstr "Beschrijving plugin:"
+
+#: includes/white-label.php:29
+msgid "Plugin Name:"
+msgstr "Naam plugin:"
+
+#: includes/white-label.php:18 includes/white-label.php:23
+msgid "Custom Fonts Branding"
+msgstr "Branding met aangepaste lettertypen"
+
+#. Author URI of the plugin
+msgid "http://www.brainstormforce.com"
+msgstr "http://www.brainstormforce.com"
+
+#. Author of the plugin
+msgid "Brainstorm Force"
+msgstr "Brainstorm Force"
+
+#. Description of the plugin
+msgid "Custom Fonts allows you to add more fonts that extend formatting options in your site."
+msgstr "Met Custom Fonts kunt je meer lettertypen toevoegen die de opmaakopties op je site uitbreiden."
+
+#. Plugin URI of the plugin
+msgid "http://www.wpastra.com/"
+msgstr "http://www.wpastra.com/"
+
+#: includes/class-bsf-custom-fonts-taxonomy.php:94
+msgid "No fonts found"
+msgstr "Geen lettertypen gevonden"
+
+#: includes/class-bsf-custom-fonts-taxonomy.php:93
+msgid "New Font Name"
+msgstr "Nieuwe lettertypenaam"
+
+#: includes/class-bsf-custom-fonts-taxonomy.php:92
+msgid "Add New Font"
+msgstr "Nieuw lettertype toevoegen"
+
+#: includes/class-bsf-custom-fonts-taxonomy.php:91
+msgid "Update Font"
+msgstr "Lettertype bijwerken"
+
+#: includes/class-bsf-custom-fonts-taxonomy.php:90
+msgid "Edit Font"
+msgstr "Lettertype bewerken"
+
+#: includes/class-bsf-custom-fonts-taxonomy.php:89
+msgid "Parent Font:"
+msgstr "Bovenliggend lettertype:"
+
+#: includes/class-bsf-custom-fonts-taxonomy.php:88
+msgid "Parent Font"
+msgstr "Bovenliggend lettertype"
+
+#: includes/class-bsf-custom-fonts-taxonomy.php:87
+msgid "All Fonts"
+msgstr "Alle lettertypen"
+
+#: includes/class-bsf-custom-fonts-taxonomy.php:86
+msgid "Search Fonts"
+msgstr "Lettertypen zoeken"
+
+#: includes/class-bsf-custom-fonts-taxonomy.php:85
+msgctxt "Admin menu name"
+msgid "Custom Fonts"
+msgstr "Custom Fonts"
+
+#: includes/class-bsf-custom-fonts-taxonomy.php:84
+msgid "Font"
+msgstr "Lettertype"
+
+#: includes/class-bsf-custom-fonts-admin.php:396
+#: includes/class-bsf-custom-fonts-admin.php:556
+msgid "Upload"
+msgstr "Uploaden"
+
+#: includes/class-bsf-custom-fonts-admin.php:233
+#: includes/class-bsf-custom-fonts-admin.php:340
+msgid "Upload the font's svg file or enter the URL."
+msgstr "Upload het svg-bestand van het lettertype of voer de URL in."
+
+#: includes/class-bsf-custom-fonts-admin.php:233
+#: includes/class-bsf-custom-fonts-admin.php:340
+msgid "Font .svg"
+msgstr "Lettertype .svg"
+
+#: includes/class-bsf-custom-fonts-admin.php:232
+#: includes/class-bsf-custom-fonts-admin.php:338
+msgid "Upload the font's eot file or enter the URL."
+msgstr "Upload het eot-bestand van het lettertype of voer de URL in."
+
+#: includes/class-bsf-custom-fonts-admin.php:232
+#: includes/class-bsf-custom-fonts-admin.php:338
+msgid "Font .eot"
+msgstr "Lettertype .eot"
+
+#: includes/class-bsf-custom-fonts-admin.php:231
+#: includes/class-bsf-custom-fonts-admin.php:336
+msgid "Upload the font's ttf file or enter the URL."
+msgstr "Upload het ttf-bestand van het lettertype of voer de URL in."
+
+#: includes/class-bsf-custom-fonts-admin.php:231
+#: includes/class-bsf-custom-fonts-admin.php:336
+msgid "Font .ttf"
+msgstr "Lettertype .ttf"
+
+#: includes/class-bsf-custom-fonts-admin.php:230
+#: includes/class-bsf-custom-fonts-admin.php:334
+msgid "Upload the font's woff file or enter the URL."
+msgstr "Upload het woff-bestand van het lettertype of voer de URL in."
+
+#: includes/class-bsf-custom-fonts-admin.php:230
+#: includes/class-bsf-custom-fonts-admin.php:334
+msgid "Font .woff"
+msgstr "Lettertype .woff"
+
+#: includes/class-bsf-custom-fonts-admin.php:229
+#: includes/class-bsf-custom-fonts-admin.php:332
+msgid "Upload the font's woff2 file or enter the URL."
+msgstr "Upload het woff2-bestand van het lettertype of voer de URL in."
+
+#: includes/class-bsf-custom-fonts-admin.php:229
+#: includes/class-bsf-custom-fonts-admin.php:332
+msgid "Font .woff2"
+msgstr "Lettertype .woff2"
+
+#: includes/class-bsf-custom-fonts-admin.php:117
+msgid "The name of the font as it appears in the customizer options."
+msgstr "De naam van het lettertype zoals deze wordt weergegeven in de aanpassingsopties."
+
+#. Plugin Name of the plugin
+#: includes/class-bsf-custom-fonts-taxonomy.php:83
+#: includes/class-bsf-custom-fonts-admin.php:87
+msgid "Custom Fonts"
+msgstr "Custom Fonts"
+
+#. translators: 1: Astra theme from wordpress.org
+#: classes/class-bsf-custom-fonts-render.php:411
+msgid "Custom Fonts Plugin requires minimum 1.0.16 version of the Astra Theme."
+msgstr "Custom Fonts Plugin vereist minimum 1.0.16 versie van het Astra Theme."
